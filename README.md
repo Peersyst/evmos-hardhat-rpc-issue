@@ -6,9 +6,9 @@ This repo is to test the issue with the evmos hardhat rpc provider.
 
 1. Clone the repo
 2. Run `npm install`
-3. Run `npm run test`
-4. Run `cp .env.example .env`
-5. Fill in the private key in the .env file
+3. Run `npm run build`
+5. Run `cp .env.example .env`
+6. Fill in the private key in the .env file
 
 ## Expected behavior
 
